@@ -1,2 +1,2 @@
 # rcsimple
-Partial reconfiguration controller IP
+A lightweight and fast partial reconfiguration controller IP for Xilinx 7 Series devices
